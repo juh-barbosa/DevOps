@@ -7,6 +7,4 @@ before_install:
 
 script:
   - python test.py
-
-script:
   - python jogo da velha.py
