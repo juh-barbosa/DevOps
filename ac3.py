@@ -8,8 +8,8 @@ def inicializar():
 	return tab
 
 def main():
-	jogo = inicializar()
-	print(jogo)
+	atividade = inicializar()
+	print(atividade)
 
 if __name__ == "__main__":
 	main()
