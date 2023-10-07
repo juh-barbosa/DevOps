@@ -1,4 +1,4 @@
-import jogovelha
+import ac3
 import sys
 
 erroInicializar = False
